@@ -1,6 +1,6 @@
 # Random LoRA Injector Extension for Stable Diffusion WebUI
 
-This extension for the Automatic1111 Stable Diffusion WebUI allows you to randomly inject LoRA models into your prompts, adding variety and unpredictability to your generated images. Personally, I use it to randomize what characters/Character LoRAs I generate with in conjuction with dynamic prompts and my other extension [Randomize Aspect Ratio](https://github.com/ArchAngelAries/randomize-aspect-ratio)
+This extension for the Automatic1111 Stable Diffusion WebUI allows you to randomly inject LoRA models into your prompts, adding variety and unpredictability to your generated images. Personally, I use it to randomize what characters/Character LoRAs I generate with in conjuction with dynamic prompts and my other extension [Randomize Aspect Ratio](https://github.com/ArchAngelAries/randomize-aspect-ratio) . Using both with Dynamic Prompts can create both a random and tailored generation experience for unique and random generations.
 
 ![Screenshot 2024-10-02 184356](https://github.com/user-attachments/assets/65369813-c1e8-4d08-a025-f03981953e9f)
 
