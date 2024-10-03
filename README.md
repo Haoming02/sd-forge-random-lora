@@ -2,6 +2,8 @@
 
 This extension for the Automatic1111 Stable Diffusion WebUI allows you to randomly inject LoRA models into your prompts, adding variety and unpredictability to your generated images.
 
+![Screenshot 2024-10-02 184356](https://github.com/user-attachments/assets/65369813-c1e8-4d08-a025-f03981953e9f)
+
 ## Features
 
 - Randomly selects a LoRA from a specified folder
