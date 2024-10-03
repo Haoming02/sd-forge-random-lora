@@ -12,10 +12,8 @@ This extension for the Automatic1111 Stable Diffusion WebUI allows you to random
 
 ## Installation
 
-1. Clone this repository into the `extensions` folder of your Stable Diffusion WebUI installation:
-   ```
-   git clone https://github.com/yourusername/sd-webui-random-lora-injector.git
-   ```
+1. Clone this repository (or download and extract the zip file) into the `extensions` folder of your Stable Diffusion WebUI installation:
+
 2. Restart your Stable Diffusion WebUI.
 
 ## Usage
